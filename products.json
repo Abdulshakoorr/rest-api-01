@@ -1,0 +1,31 @@
+[
+    {
+        "name":"iphone 14 pro",
+        "price":500,
+        "features":"false",
+        "company":"apple"
+    },
+    {
+        "name":"iphone",
+        "price":450,
+        "features":"false",
+        "company":"apple"
+    },
+    {
+        "name":"samsung note 14",
+        "price":600,
+        "features":"true",
+        "company":"samsung"
+    },
+    {
+        "name":"hp",
+        "price":750,
+        "company":"hp"
+    },
+    {
+        "name":"sony 14 pro",
+        "price":250,
+        "features":"false",
+        "company":"sony"
+    }
+]
